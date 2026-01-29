@@ -8,6 +8,6 @@ namespace Fibonacci
 {
     internal interface IFibonacci
     {
-        int Fun(int n, bool flag);
+        int Fibonacci(int n, bool flag);
     }
 }
