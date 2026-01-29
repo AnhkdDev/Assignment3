@@ -2,6 +2,6 @@
 {
     public interface IFibonacci
     {
-        void CaculateFibonacci(int number, bool flag);
+      void  CaculateFibonacci(int number, bool flag);
     }
 }
